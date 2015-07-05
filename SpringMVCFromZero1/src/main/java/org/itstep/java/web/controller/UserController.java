@@ -19,6 +19,10 @@ public class UserController {
    @Autowired
     UserService userService;
     
+    public UserController(UserService srv) {
+        this.userService = srv;
+    }
+   
     @RequestMapping(value = "show", method = RequestMethod.GET)
     public String user(
             UsernamePasswordAuthenticationToken currentUser,

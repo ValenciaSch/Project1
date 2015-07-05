@@ -17,8 +17,12 @@ public class GoodController {
     
     @Autowired
     GoodService goodService;
+   
     
-    
+     public GoodController(GoodService srv) {
+        this.goodService = srv;
+    }
+     
     @RequestMapping(method = RequestMethod.GET)
     public String all(  Model model) {
 //        model.addAttribute("goods", goodService.all());

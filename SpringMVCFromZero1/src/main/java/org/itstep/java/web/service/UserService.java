@@ -7,7 +7,7 @@ import org.itstep.java.web.model.User;
 
 @Transactional
 public interface UserService {
-   User find(Integer id);
+    User find(Integer id);
     List<User> findAll() throws SQLException;
     int save(User u); 
 }
