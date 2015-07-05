@@ -1,0 +1,40 @@
+C:\Users\Сергей\Desktop\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll.config
+C:\Users\Сергей\Desktop\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll
+C:\Users\Сергей\Desktop\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.pdb
+C:\Users\Сергей\Desktop\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Desktop\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.dll
+C:\Users\Сергей\Desktop\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.pdb
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll.config
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.pdb
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.csprojResolveAssemblyReference.cache
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.dll
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.pdb
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll.config
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.pdb
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.csprojResolveAssemblyReference.cache
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.dll
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.pdb
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия2-работаем!!!\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll.config
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия2-работаем!!!\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия2-работаем!!!\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.pdb
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия2-работаем!!!\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.csprojResolveAssemblyReference.cache
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия2-работаем!!!\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.dll
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия2-работаем!!!\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.pdb
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия3-работаем!!!\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll.config
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия3-работаем!!!\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия3-работаем!!!\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.pdb
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия3-работаем!!!\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.dll
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия3-работаем!!!\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.pdb
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия4-работаем!!!\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll.config
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия4-работаем!!!\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия4-работаем!!!\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.pdb
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия4-работаем!!!\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.dll
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия4-работаем!!!\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.pdb
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия5-работаем!!!\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll.config
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия5-работаем!!!\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия5-работаем!!!\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.pdb
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия5-работаем!!!\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.dll
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия5-работаем!!!\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.pdb
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия5-работаем!!!\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.csprojResolveAssemblyReference.cache

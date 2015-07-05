@@ -1,0 +1,103 @@
+C:\Users\Сергей\Desktop\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O\WindowsForms_X-x-O\bin\Debug\WindowsForms_X-x-O.exe.config
+C:\Users\Сергей\Desktop\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O\WindowsForms_X-x-O\bin\Debug\WindowsForms_X-x-O.exe
+C:\Users\Сергей\Desktop\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O\WindowsForms_X-x-O\bin\Debug\WindowsForms_X-x-O.pdb
+C:\Users\Сергей\Desktop\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O\WindowsForms_X-x-O\bin\Debug\WcfServiceLibrary1.dll
+C:\Users\Сергей\Desktop\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O\WindowsForms_X-x-O\bin\Debug\WcfServiceLibrary1.pdb
+C:\Users\Сергей\Desktop\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O\WindowsForms_X-x-O\obj\Debug\WindowsForms_X-x-O.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Desktop\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O\WindowsForms_X-x-O\obj\Debug\WindowsForms_X_x_O.Computer_Game.resources
+C:\Users\Сергей\Desktop\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O\WindowsForms_X-x-O\obj\Debug\WindowsForms_X_x_O.Form1.resources
+C:\Users\Сергей\Desktop\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O\WindowsForms_X-x-O\obj\Debug\WindowsForms_X_x_O.Properties.Resources.resources
+C:\Users\Сергей\Desktop\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O\WindowsForms_X-x-O\obj\Debug\WindowsForms_X-x-O.csproj.GenerateResource.Cache
+C:\Users\Сергей\Desktop\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O\WindowsForms_X-x-O\obj\Debug\WindowsForms_X-x-O.exe
+C:\Users\Сергей\Desktop\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O\WindowsForms_X-x-O\obj\Debug\WindowsForms_X-x-O.pdb
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O\WindowsForms_X-x-O\bin\Debug\WindowsForms_X-x-O.exe.config
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O\WindowsForms_X-x-O\obj\Debug\WindowsForms_X-x-O.exe
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O\WindowsForms_X-x-O\obj\Debug\WindowsForms_X-x-O.pdb
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O\WindowsForms_X-x-O\bin\Debug\WindowsForms_X-x-O.exe
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O\WindowsForms_X-x-O\bin\Debug\WindowsForms_X-x-O.pdb
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O\WindowsForms_X-x-O\bin\Debug\WcfServiceLibrary1.dll
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O\WindowsForms_X-x-O\bin\Debug\WcfServiceLibrary1.pdb
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O\WindowsForms_X-x-O\obj\Debug\WindowsForms_X-x-O.csprojResolveAssemblyReference.cache
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O\WindowsForms_X-x-O\obj\Debug\WindowsForms_X_x_O.Computer_Game.resources
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O\WindowsForms_X-x-O\obj\Debug\WindowsForms_X_x_O.Form1.resources
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O\WindowsForms_X-x-O\obj\Debug\WindowsForms_X_x_O.Properties.Resources.resources
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O\WindowsForms_X-x-O\obj\Debug\WindowsForms_X-x-O.csproj.GenerateResource.Cache
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия\WindowsForms_X-x-O\bin\Debug\WindowsForms_X-x-O.exe.config
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия\WindowsForms_X-x-O\obj\Debug\WindowsForms_X-x-O.exe
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия\WindowsForms_X-x-O\obj\Debug\WindowsForms_X-x-O.pdb
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия\WindowsForms_X-x-O\bin\Debug\WindowsForms_X-x-O.exe
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия\WindowsForms_X-x-O\bin\Debug\WindowsForms_X-x-O.pdb
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия\WindowsForms_X-x-O\bin\Debug\WcfServiceLibrary1.dll
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия\WindowsForms_X-x-O\bin\Debug\WcfServiceLibrary1.pdb
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия\WindowsForms_X-x-O\obj\Debug\WindowsForms_X-x-O.csprojResolveAssemblyReference.cache
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия\WindowsForms_X-x-O\obj\Debug\WindowsForms_X_x_O.Computer_Game.resources
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия\WindowsForms_X-x-O\obj\Debug\WindowsForms_X_x_O.Form1.resources
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия\WindowsForms_X-x-O\obj\Debug\WindowsForms_X_x_O.Properties.Resources.resources
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия\WindowsForms_X-x-O\obj\Debug\WindowsForms_X-x-O.csproj.GenerateResource.Cache
+H:\Восстановлено\I\I0\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия\WindowsForms_X-x-O\bin\Debug\WindowsForms_X-x-O.exe.config
+H:\Восстановлено\I\I0\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия\WindowsForms_X-x-O\obj\Debug\WindowsForms_X-x-O.exe
+H:\Восстановлено\I\I0\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия\WindowsForms_X-x-O\obj\Debug\WindowsForms_X-x-O.pdb
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия\WindowsForms_X-x-O\bin\Debug\WindowsForms_X-x-O.exe.config
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия\WindowsForms_X-x-O\obj\Debug\WindowsForms_X-x-O.exe
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия\WindowsForms_X-x-O\obj\Debug\WindowsForms_X-x-O.pdb
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия\WindowsForms_X-x-O\bin\Debug\WindowsForms_X-x-O.exe
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия\WindowsForms_X-x-O\bin\Debug\WindowsForms_X-x-O.pdb
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия\WindowsForms_X-x-O\bin\Debug\WcfServiceLibrary1.dll
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия\WindowsForms_X-x-O\bin\Debug\WcfServiceLibrary1.pdb
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия\WindowsForms_X-x-O\obj\Debug\WindowsForms_X-x-O.csprojResolveAssemblyReference.cache
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия\WindowsForms_X-x-O\obj\Debug\WindowsForms_X_x_O.Computer_Game.resources
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия\WindowsForms_X-x-O\obj\Debug\WindowsForms_X_x_O.Form1.resources
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия\WindowsForms_X-x-O\obj\Debug\WindowsForms_X_x_O.Properties.Resources.resources
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия\WindowsForms_X-x-O\obj\Debug\WindowsForms_X-x-O.csproj.GenerateResource.Cache
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия2-работаем!!!\WindowsForms_X-x-O\bin\Debug\WindowsForms_X-x-O.exe.config
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия2-работаем!!!\WindowsForms_X-x-O\bin\Debug\WindowsForms_X-x-O.exe
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия2-работаем!!!\WindowsForms_X-x-O\bin\Debug\WindowsForms_X-x-O.pdb
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия2-работаем!!!\WindowsForms_X-x-O\bin\Debug\WcfServiceLibrary1.dll
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия2-работаем!!!\WindowsForms_X-x-O\bin\Debug\WcfServiceLibrary1.pdb
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия2-работаем!!!\WindowsForms_X-x-O\obj\Debug\WindowsForms_X_x_O.Computer_Game.resources
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия2-работаем!!!\WindowsForms_X-x-O\obj\Debug\WindowsForms_X_x_O.Form1.resources
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия2-работаем!!!\WindowsForms_X-x-O\obj\Debug\WindowsForms_X_x_O.Properties.Resources.resources
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия2-работаем!!!\WindowsForms_X-x-O\obj\Debug\WindowsForms_X_x_O.Statistics.resources
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия2-работаем!!!\WindowsForms_X-x-O\obj\Debug\WindowsForms_X-x-O.csproj.GenerateResource.Cache
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия2-работаем!!!\WindowsForms_X-x-O\obj\Debug\WindowsForms_X-x-O.exe
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия2-работаем!!!\WindowsForms_X-x-O\obj\Debug\WindowsForms_X-x-O.pdb
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия2-работаем!!!\WindowsForms_X-x-O\obj\Debug\WindowsForms_X-x-O.csprojResolveAssemblyReference.cache
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия3-работаем!!!\WindowsForms_X-x-O\obj\Debug\WindowsForms_X_x_O.Computer_Game.resources
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия3-работаем!!!\WindowsForms_X-x-O\obj\Debug\WindowsForms_X_x_O.Form1.resources
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия3-работаем!!!\WindowsForms_X-x-O\obj\Debug\WindowsForms_X_x_O.Properties.Resources.resources
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия3-работаем!!!\WindowsForms_X-x-O\obj\Debug\WindowsForms_X_x_O.Statistics.resources
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия3-работаем!!!\WindowsForms_X-x-O\obj\Debug\WindowsForms_X-x-O.csproj.GenerateResource.Cache
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия3-работаем!!!\WindowsForms_X-x-O\bin\Debug\WindowsForms_X-x-O.exe.config
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия3-работаем!!!\WindowsForms_X-x-O\bin\Debug\WindowsForms_X-x-O.exe
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия3-работаем!!!\WindowsForms_X-x-O\bin\Debug\WindowsForms_X-x-O.pdb
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия3-работаем!!!\WindowsForms_X-x-O\bin\Debug\WcfServiceLibrary1.dll
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия3-работаем!!!\WindowsForms_X-x-O\bin\Debug\WcfServiceLibrary1.pdb
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия3-работаем!!!\WindowsForms_X-x-O\obj\Debug\WindowsForms_X-x-O.csprojResolveAssemblyReference.cache
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия3-работаем!!!\WindowsForms_X-x-O\obj\Debug\WindowsForms_X-x-O.exe
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия3-работаем!!!\WindowsForms_X-x-O\obj\Debug\WindowsForms_X-x-O.pdb
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия4-работаем!!!\WindowsForms_X-x-O\bin\Debug\WindowsForms_X-x-O.exe.config
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия4-работаем!!!\WindowsForms_X-x-O\obj\Debug\WindowsForms_X-x-O.exe
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия4-работаем!!!\WindowsForms_X-x-O\obj\Debug\WindowsForms_X-x-O.pdb
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия4-работаем!!!\WindowsForms_X-x-O\bin\Debug\WindowsForms_X-x-O.exe
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия4-работаем!!!\WindowsForms_X-x-O\bin\Debug\WindowsForms_X-x-O.pdb
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия4-работаем!!!\WindowsForms_X-x-O\bin\Debug\WcfServiceLibrary1.dll
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия4-работаем!!!\WindowsForms_X-x-O\bin\Debug\WcfServiceLibrary1.pdb
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия4-работаем!!!\WindowsForms_X-x-O\obj\Debug\WindowsForms_X_x_O.Computer_Game.resources
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия4-работаем!!!\WindowsForms_X-x-O\obj\Debug\WindowsForms_X_x_O.Form1.resources
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия4-работаем!!!\WindowsForms_X-x-O\obj\Debug\WindowsForms_X_x_O.Properties.Resources.resources
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия4-работаем!!!\WindowsForms_X-x-O\obj\Debug\WindowsForms_X_x_O.Statistics.resources
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия4-работаем!!!\WindowsForms_X-x-O\obj\Debug\WindowsForms_X-x-O.csproj.GenerateResource.Cache
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия4-работаем!!!\WindowsForms_X-x-O\obj\Debug\WindowsForms_X-x-O.csprojResolveAssemblyReference.cache
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия5-работаем!!!\WindowsForms_X-x-O\bin\Debug\WindowsForms_X-x-O.exe
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия5-работаем!!!\WindowsForms_X-x-O\bin\Debug\WcfServiceLibrary1.dll
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия5-работаем!!!\WindowsForms_X-x-O\bin\Debug\WcfServiceLibrary1.pdb
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия5-работаем!!!\WindowsForms_X-x-O\obj\Debug\WindowsForms_X-x-O.csprojResolveAssemblyReference.cache
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия5-работаем!!!\WindowsForms_X-x-O\obj\Debug\WindowsForms_X_x_O.Computer_Game.resources
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия5-работаем!!!\WindowsForms_X-x-O\obj\Debug\WindowsForms_X_x_O.Form1.resources
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия5-работаем!!!\WindowsForms_X-x-O\obj\Debug\WindowsForms_X_x_O.Properties.Resources.resources
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия5-работаем!!!\WindowsForms_X-x-O\obj\Debug\WindowsForms_X_x_O.Statistics.resources
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия5-работаем!!!\WindowsForms_X-x-O\obj\Debug\WindowsForms_X-x-O.csproj.GenerateResource.Cache
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия5-работаем!!!\WindowsForms_X-x-O\obj\Debug\WindowsForms_X-x-O.exe
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия5-работаем!!!\WindowsForms_X-x-O\obj\Debug\WindowsForms_X-x-O.pdb
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия5-работаем!!!\WindowsForms_X-x-O\bin\Debug\WindowsForms_X-x-O.exe.config
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия5-работаем!!!\WindowsForms_X-x-O\bin\Debug\WindowsForms_X-x-O.pdb
