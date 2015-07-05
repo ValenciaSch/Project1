@@ -1,0 +1,48 @@
+C:\Users\Сергей\Desktop\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O\ConsoleApplicationHost\bin\Debug\ConsoleApplicationHost.exe.config
+C:\Users\Сергей\Desktop\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O\ConsoleApplicationHost\bin\Debug\ConsoleApplicationHost.exe
+C:\Users\Сергей\Desktop\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O\ConsoleApplicationHost\bin\Debug\ConsoleApplicationHost.pdb
+C:\Users\Сергей\Desktop\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O\ConsoleApplicationHost\bin\Debug\WcfServiceLibrary1.dll
+C:\Users\Сергей\Desktop\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O\ConsoleApplicationHost\bin\Debug\WcfServiceLibrary1.pdb
+C:\Users\Сергей\Desktop\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O\ConsoleApplicationHost\obj\Debug\ConsoleApplicationHost.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Desktop\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O\ConsoleApplicationHost\obj\Debug\ConsoleApplicationHost.exe
+C:\Users\Сергей\Desktop\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O\ConsoleApplicationHost\obj\Debug\ConsoleApplicationHost.pdb
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия\ConsoleApplicationHost\bin\Debug\ConsoleApplicationHost.exe.config
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия\ConsoleApplicationHost\obj\Debug\ConsoleApplicationHost.exe
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия\ConsoleApplicationHost\obj\Debug\ConsoleApplicationHost.pdb
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия\ConsoleApplicationHost\bin\Debug\ConsoleApplicationHost.exe
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия\ConsoleApplicationHost\bin\Debug\ConsoleApplicationHost.pdb
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия\ConsoleApplicationHost\bin\Debug\WcfServiceLibrary1.dll
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия\ConsoleApplicationHost\bin\Debug\WcfServiceLibrary1.pdb
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия\ConsoleApplicationHost\obj\Debug\ConsoleApplicationHost.csprojResolveAssemblyReference.cache
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия2-работаем!!!\ConsoleApplicationHost\bin\Debug\ConsoleApplicationHost.exe.config
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия2-работаем!!!\ConsoleApplicationHost\bin\Debug\ConsoleApplicationHost.exe
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия2-работаем!!!\ConsoleApplicationHost\bin\Debug\ConsoleApplicationHost.pdb
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия2-работаем!!!\ConsoleApplicationHost\bin\Debug\WcfServiceLibrary1.dll
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия2-работаем!!!\ConsoleApplicationHost\bin\Debug\WcfServiceLibrary1.pdb
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия2-работаем!!!\ConsoleApplicationHost\obj\Debug\ConsoleApplicationHost.csprojResolveAssemblyReference.cache
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия2-работаем!!!\ConsoleApplicationHost\obj\Debug\ConsoleApplicationHost.exe
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия2-работаем!!!\ConsoleApplicationHost\obj\Debug\ConsoleApplicationHost.pdb
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия3-работаем!!!\ConsoleApplicationHost\bin\Debug\ConsoleApplicationHost.exe.config
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия3-работаем!!!\ConsoleApplicationHost\bin\Debug\ConsoleApplicationHost.exe
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия3-работаем!!!\ConsoleApplicationHost\bin\Debug\ConsoleApplicationHost.pdb
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия3-работаем!!!\ConsoleApplicationHost\bin\Debug\WcfServiceLibrary1.dll
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия3-работаем!!!\ConsoleApplicationHost\bin\Debug\WcfServiceLibrary1.pdb
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия3-работаем!!!\ConsoleApplicationHost\obj\Debug\ConsoleApplicationHost.csprojResolveAssemblyReference.cache
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия3-работаем!!!\ConsoleApplicationHost\obj\Debug\ConsoleApplicationHost.exe
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия3-работаем!!!\ConsoleApplicationHost\obj\Debug\ConsoleApplicationHost.pdb
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия4-работаем!!!\ConsoleApplicationHost\bin\Debug\ConsoleApplicationHost.exe.config
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия4-работаем!!!\ConsoleApplicationHost\bin\Debug\ConsoleApplicationHost.exe
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия4-работаем!!!\ConsoleApplicationHost\bin\Debug\ConsoleApplicationHost.pdb
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия4-работаем!!!\ConsoleApplicationHost\bin\Debug\WcfServiceLibrary1.dll
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия4-работаем!!!\ConsoleApplicationHost\bin\Debug\WcfServiceLibrary1.pdb
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия4-работаем!!!\ConsoleApplicationHost\obj\Debug\ConsoleApplicationHost.csprojResolveAssemblyReference.cache
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия4-работаем!!!\ConsoleApplicationHost\obj\Debug\ConsoleApplicationHost.exe
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия4-работаем!!!\ConsoleApplicationHost\obj\Debug\ConsoleApplicationHost.pdb
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия5-работаем!!!\ConsoleApplicationHost\bin\Debug\ConsoleApplicationHost.exe.config
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия5-работаем!!!\ConsoleApplicationHost\bin\Debug\ConsoleApplicationHost.exe
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия5-работаем!!!\ConsoleApplicationHost\bin\Debug\ConsoleApplicationHost.pdb
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия5-работаем!!!\ConsoleApplicationHost\bin\Debug\WcfServiceLibrary1.dll
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия5-работаем!!!\ConsoleApplicationHost\bin\Debug\WcfServiceLibrary1.pdb
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия5-работаем!!!\ConsoleApplicationHost\obj\Debug\ConsoleApplicationHost.csprojResolveAssemblyReference.cache
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия5-работаем!!!\ConsoleApplicationHost\obj\Debug\ConsoleApplicationHost.exe
+D:\Step\Andrey\Учеба Шаг\Домашка\WindowsForms_X-x-O — копия — копия5-работаем!!!\ConsoleApplicationHost\obj\Debug\ConsoleApplicationHost.pdb

@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="Service1" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import namespace="http://tempuri.org/" />
+      <xsd:import namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import namespace="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <xsd:import namespace="http://schemas.datacontract.org/2004/07/WcfServiceLibrary1" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IService1_Login_InputMessage">
+    <wsdl:part name="parameters" element="tns:Login" />
+  </wsdl:message>
+  <wsdl:message name="IService1_Login_OutputMessage">
+    <wsdl:part name="parameters" element="tns:LoginResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetAllPlayerGame222_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetAllPlayerGame222" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetAllPlayerGame222_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetAllPlayerGame222Response" />
+  </wsdl:message>
+  <wsdl:message name="IService1_SendCoord_InputMessage">
+    <wsdl:part name="parameters" element="tns:SendCoord" />
+  </wsdl:message>
+  <wsdl:message name="IService1_SendCoord_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SendCoordResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_SendCoordOpponent_InputMessage">
+    <wsdl:part name="parameters" element="tns:SendCoordOpponent" />
+  </wsdl:message>
+  <wsdl:message name="IService1_SendCoordOpponent_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SendCoordOpponentResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_Win_Lose_Draw_InputMessage">
+    <wsdl:part name="parameters" element="tns:Win_Lose_Draw" />
+  </wsdl:message>
+  <wsdl:message name="IService1_Win_Lose_Draw_OutputMessage">
+    <wsdl:part name="parameters" element="tns:Win_Lose_DrawResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetAllPlayerWin_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetAllPlayerWin" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetAllPlayerWin_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetAllPlayerWinResponse" />
+  </wsdl:message>
+  <wsdl:portType name="IService1">
+    <wsdl:operation name="Login">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/Login" message="tns:IService1_Login_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/LoginResponse" message="tns:IService1_Login_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetAllPlayerGame222">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/GetAllPlayerGame222" message="tns:IService1_GetAllPlayerGame222_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/GetAllPlayerGame222Response" message="tns:IService1_GetAllPlayerGame222_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="SendCoord">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/SendCoord" message="tns:IService1_SendCoord_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/SendCoordResponse" message="tns:IService1_SendCoord_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="SendCoordOpponent">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/SendCoordOpponent" message="tns:IService1_SendCoordOpponent_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/SendCoordOpponentResponse" message="tns:IService1_SendCoordOpponent_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Win_Lose_Draw">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/Win_Lose_Draw" message="tns:IService1_Win_Lose_Draw_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/Win_Lose_DrawResponse" message="tns:IService1_Win_Lose_Draw_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetAllPlayerWin">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/GetAllPlayerWin" message="tns:IService1_GetAllPlayerWin_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/GetAllPlayerWinResponse" message="tns:IService1_GetAllPlayerWin_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_IService1" type="tns:IService1">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="Login">
+      <soap:operation soapAction="http://tempuri.org/IService1/Login" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAllPlayerGame222">
+      <soap:operation soapAction="http://tempuri.org/IService1/GetAllPlayerGame222" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SendCoord">
+      <soap:operation soapAction="http://tempuri.org/IService1/SendCoord" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SendCoordOpponent">
+      <soap:operation soapAction="http://tempuri.org/IService1/SendCoordOpponent" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Win_Lose_Draw">
+      <soap:operation soapAction="http://tempuri.org/IService1/Win_Lose_Draw" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAllPlayerWin">
+      <soap:operation soapAction="http://tempuri.org/IService1/GetAllPlayerWin" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="Service1">
+    <wsdl:port name="BasicHttpBinding_IService1" binding="tns:BasicHttpBinding_IService1">
+      <soap:address location="http://localhost:8733/Design_Time_Addresses/WcfServiceLibrary1/Service1/" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>
